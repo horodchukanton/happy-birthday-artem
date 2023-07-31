@@ -1,22 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src='cake.gif' className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Вітаємо з Днем Народження!!!
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+            href="http://favorits.od.ua/service/navchannya-vodinnyu-kategoriy-b-avtomobil"
+            className="btn btn-sucess"
+            target="_blank"
+            rel="noopener noreferrer"
+        >Подарунок тут</a>
       </header>
     </div>
   );
