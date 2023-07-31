@@ -10,7 +10,7 @@ function App() {
         </p>
         <a
             href="http://favorits.od.ua/service/navchannya-vodinnyu-kategoriy-b-avtomobil"
-            className="btn btn-sucess"
+            className=".App-link"
             target="_blank"
             rel="noopener noreferrer"
         >Подарунок тут</a>
